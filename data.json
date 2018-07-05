@@ -1,0 +1,14 @@
+{
+  "places" : [
+    {
+      "name":"Parkir 1",
+      "user":"0",
+      "status":"keep"
+    },
+    {
+      "name":"Parkir 2",
+      "user":"0",
+      "status":"keep"
+    }
+  ]
+}
